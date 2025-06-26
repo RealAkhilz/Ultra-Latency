@@ -7,7 +7,7 @@
 > [!Caution]
 > This is the official place to download Ultra Latency, any other websites offering downloads of Ultra Latency are not controlled by us.
 
----
+<h3 align="center">⊹˚₊‧───────────────────────────────────────────────────────────────────₊˚⊹</h3>
 
 <h2>★ - Quick Links</h2>
 
@@ -20,13 +20,13 @@
 
 </div>
 
-<h3 align="center">⊹˚₊‧─────────────────────────────────────────────────────────₊˚⊹</h3>
+<h3 align="center">⊹˚₊‧───────────────────────────────────────────────────────────────────₊˚⊹</h3>
 
 <h2>★ - What is Ultra Latency?</h2>
 
 **Ultra Latency** is a focused Roblox FFlag pack made to cut down input lag, ping spikes, and delay. It tweaks core network and sync settings to make gameplay feel snappier, more responsive, and smoother overall — without breaking stuff or ruining visuals.
 
----
+<h3 align="center">⊹˚₊‧───────────────────────────────────────────────────────────────────₊˚⊹</h3>
 
 <h2>★ - Installation</h2>
 
@@ -39,12 +39,12 @@
 > [!important]
 > If u have any problems or facing issues, go to the Problems page *(Not available yet)* to see guides on how to fix.
 
----
+<h3 align="center">⊹˚₊‧───────────────────────────────────────────────────────────────────₊˚⊹</h3>
 
 <h2>★ - Discord Server</h2>
 
 **Join our Discord:** [Akhil's Lounge](https://discord.gg/848BdgmvD9) for help, news, and chat.
 
----
+<h3 align="center">⊹˚₊‧───────────────────────────────────────────────────────────────────₊˚⊹</h3>
 
 *Thanks for choosing Ultra Latency. Made with 💖 by Akhil*
