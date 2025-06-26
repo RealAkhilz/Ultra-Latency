@@ -7,7 +7,7 @@
 > [!Caution]
 > This is the official place to download Ultra Latency, any other websites offering downloads of Ultra Latency are not controlled by us.
 
-<h3 align="center">⊹˚₊‧───────────────────────────────────────────────────────────────────₊˚⊹</h3>
+<h3 align="center">⊹˚₊‧───────────────────────────────────────────────────────────₊˚⊹</h3>
 
 <h2>★ - Quick Links</h2>
 
