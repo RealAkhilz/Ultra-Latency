@@ -1,6 +1,3 @@
-> [!important]
-> https://guns.lol/realakhil
-
 <h1 align="center">Ultra Latency</h1>
 
 <h3 align="center"> Made by <a href="https://guns.lol/realakhil">RealAkhilz</a> </h3>
@@ -12,7 +9,7 @@
 
 ---
 
-<h2>🚀 Quick Links</h2>
+<h2>★ - Quick Links</h2>
 
 <div align="center">
 
@@ -25,26 +22,24 @@
 
 ---
 
-<h2>✨ What is Ultra Latency?</h2>
+<h2>★ - What is Ultra Latency?</h2>
 
-**Ultra Latency** is a focused Roblox FFlag pack made to cut down input lag, ping spikes, and delay. It tweaks core network and sync settings to make gameplay feel snappier, more responsive, and smoother overall — without breaking stuff or ruining visuals. No bloat, just fast.
-
----
-
-<h2>📥 Installation</h2>
-
-- **Download:** Get the latest release from the [Release page](https://github.com/RealAkhilz/Ultra-Latency/releases).
-- **Importing:** Import the downloaded file into ur bootstraper.
-- **Launch Roblox:** Experience Roblox like never before!
+**Ultra Latency** is a focused Roblox FFlag pack made to cut down input lag, ping spikes, and delay. It tweaks core network and sync settings to make gameplay feel snappier, more responsive, and smoother overall — without breaking stuff or ruining visuals.
 
 ---
+
+<h2>★ - Installation</h2>
+
+- **Download** - Get the latest release from the [Release page](https://github.com/RealAkhilz/Ultra-Latency/releases).
+- **Importing** - Import the downloaded file into ur bootstraper.
+- **Launch Roblox** - Experience Roblox like never before!
 
 > [!important]
 > If u have any problems or facing issues, go to the Problems page *(Not available yet)* to see guides on how to fix.
 
 ---
 
-<h2>🪐 Discord Server</h2>
+<h2>★ - Discord Server</h2>
 
 **Join our Discord:** [Akhil's Lounge](https://discord.gg/848BdgmvD9) for help, news, and chat.
 
