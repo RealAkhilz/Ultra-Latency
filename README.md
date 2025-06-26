@@ -30,11 +30,11 @@
 
 <h2>★ - Installation</h2>
 
-**▪ Download** - Get the latest release from the [Release page](https://github.com/RealAkhilz/Ultra-Latency/releases).
+- **Download** - Get the latest release from the [Release page](https://github.com/RealAkhilz/Ultra-Latency/releases).
 
-**▪ Importing** - Import the downloaded file into ur bootstraper.
+- **Importing** - Import the downloaded file into ur bootstraper.
 
-**▪ Launch Roblox** - Experience Roblox like never before!
+- **Launch Roblox** - Experience Roblox like never before!
 
 ---
 
