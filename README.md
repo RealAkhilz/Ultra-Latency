@@ -20,7 +20,7 @@
 
 </div>
 
----
+<h3 align="center">⊹˚₊‧───────────────────────────────────────────────────────────₊˚⊹</h3>
 
 <h2>★ - What is Ultra Latency?</h2>
 
@@ -30,9 +30,11 @@
 
 <h2>★ - Installation</h2>
 
-- **Download** - Get the latest release from the [Release page](https://github.com/RealAkhilz/Ultra-Latency/releases).
-- **Importing** - Import the downloaded file into ur bootstraper.
-- **Launch Roblox** - Experience Roblox like never before!
+**▪ Download** - Get the latest release from the [Release page](https://github.com/RealAkhilz/Ultra-Latency/releases).
+
+**▪ Importing** - Import the downloaded file into ur bootstraper.
+
+**▪ Launch Roblox** - Experience Roblox like never before!
 
 > [!important]
 > If u have any problems or facing issues, go to the Problems page *(Not available yet)* to see guides on how to fix.
