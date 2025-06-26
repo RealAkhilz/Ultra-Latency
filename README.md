@@ -31,25 +31,10 @@
 
 ---
 
-<h2>🌌 Verisons</h2>
-
-- **Latency++:** Reduce latency *(Not available yet)*
-- **Graphics Losser+:** Max FPS with __Graphics Loss__
-- **Ultra Studio:** Ultra Ultimate FFlags but for **Roblox Studio**. *(Not Available Yet)*
-- **Ultra Android:** Ultra Android is a verison of Ultra Ultimate FFlags for android. *(Not Available Yet)*
-- **Ultra Vulken:** Vulken verison *(Not Available Yet)*
-- **Ultra Metal:** Metal/MacOS verison *(Not Available Yet)*
-
----
-
 <h2>📥 Installation</h2>
 
-- **Download:** Get the latest release from the [Release page](https://github.com/RealAkhilz/Ultra-Ultimate-FFlags/releases).
-- **Json Editor:** Get a json editor, like [JsonCrack](https://jsoncrack.com). U can use Notepad too.
-- **Importing:** Import the file to the json editor
-- **Settings:** Change the main settings.
-- **Exporting:** Export the file after ur done with the settings.
-- **Importing:** Import the exported file into ur bootstraper.
+- **Download:** Get the latest release from the [Release page](https://github.com/RealAkhilz/Ultra-Latency/releases).
+- **Importing:** Import the downloaded file into ur bootstraper.
 - **Launch Roblox:** Experience Roblox like never before!
 
 ---
