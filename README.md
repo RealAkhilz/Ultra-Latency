@@ -36,9 +36,6 @@
 
 **▪ Launch Roblox** - Experience Roblox like never before!
 
-> [!important]
-> If u have any problems or facing issues, go to the Problems page *(Not available yet)* to see guides on how to fix.
-
 ---
 
 <h2>★ - Discord Server</h2>
